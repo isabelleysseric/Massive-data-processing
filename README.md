@@ -1,4 +1,4 @@
-# Traitement de données massives avec Python
+# Traitement de données massives: Analyse de sentiments sur les avis d'Amazon
 <br/>
 <br/>
 
