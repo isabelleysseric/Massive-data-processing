@@ -1,4 +1,4 @@
-# Traitement de données massives avec Python et MongoDB.
+# Traitement de données massives avec Python
 <br/>
 <br/>
 
