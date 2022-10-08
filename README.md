@@ -3,11 +3,13 @@
 <br/>
 
 
-[Massive-data-processing](https://github.com/isabelleysseric/Massive-data-processing) (GitHub)
-&nbsp; • &nbsp;[Massive-data-processing](https://github.com/isabelleysseric/Massive-data-processing/wiki) (Wiki)
-&nbsp; • &nbsp;[isabelleysseric](https://hub.docker.com/u/isabelleysseric) (Docker)
-&nbsp; • &nbsp;[isabelleysseric.com](https://isabelleysseric.com) (Portfolio)
-&nbsp; • &nbsp;[isabelle-eysseric](https://www.linkedin.com/in/isabelle-eysseric/) (Linkedin)
+<p align='center'>
+  <a href="https://github.com/isabelleysseric/Massive-data-processing">Massive-data-processing</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/Massive-data-processing/wiki">Massive-data-processing</a> (Wiki)<br/>
+  <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://isabelleysseric.com/">isabelleysseric.com</a> (Portfolio)
+  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelle-eysseric</a> (LinkedIn) <br/><br/><br/>
+</p>
 <br/>
 <br/>
 
