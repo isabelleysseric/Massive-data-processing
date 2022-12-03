@@ -8,7 +8,7 @@
   &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/Massive-data-processing/wiki">Massive-data-processing</a> (Wiki)<br/>
   <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
   &nbsp; • &nbsp;<a href="https://isabelleysseric.com/">isabelleysseric.com</a> (Portfolio)
-  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelleysseric</a> (LinkedIn) <br/><br/><br/>
+  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelleysseric/">isabelleysseric</a> (LinkedIn) <br/><br/><br/>
 </p>
 <br/>
 <br/>
